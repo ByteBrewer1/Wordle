@@ -1,5 +1,4 @@
-## Wordle Clone: A Recipe Finder Web Application
-
+## Wordle Clone:
 ### What is Wordle?
 
 Wordle is a popular online word-guessing game that involves guessing a five-letter word in a limited number of attempts. The game was created by Jonathan Feinberg in 2008 and has gained widespread popularity in recent years. The objective of the game is to correctly guess a five-letter word within six attempts by using clues provided by the game. The clues are in the form of color-coded symbols, which indicate if the letter is in the correct position or if it appears elsewhere in the word. The game has become a cultural phenomenon and has attracted millions of players worldwide.
